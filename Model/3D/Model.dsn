@@ -1,0 +1,8751 @@
+*** File Version: 17.00
+
+Number of ports: 1
+Portnames: 1
+Modenumbers: 1
+Portlabels: ""
+StaticSources:
+ThermalSources:
+FloquetPortNames:
+FloquetPortModes:
+Terminals:
+TerminalToReferenceTable:
+StaticSourceGroups:
+ThermalSourceGroups:
+TerminalSourceGroups:
+PortSourceGroups:
+FloquetPortSourceGroups:
+Number of frequency-points: 1
+Fmin: 2.500000e+10
+Fmax: 3.100000e+10
+Fscale: 1.000000e+09
+
+
+
+*** newset
+
+*** newmode
+SetType: 100
+Portname: 1
+Modenumber: 1
+Modetype: 4
+PortModeConsState: 0
+*** endmode
+
+*** endset
+
+
+
+
+*** newmonitor
+monname: "farfield (f=8)"
+nmonfrequencies: 1
+monfrequencies: "8" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=8.0816)"
+nmonfrequencies: 1
+monfrequencies: "8.0816326530612255" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=8.1633)"
+nmonfrequencies: 1
+monfrequencies: "8.1632653061224492" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=8.2449)"
+nmonfrequencies: 1
+monfrequencies: "8.2448979591836746" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=8.3265)"
+nmonfrequencies: 1
+monfrequencies: "8.3265306122448983" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=8.4082)"
+nmonfrequencies: 1
+monfrequencies: "8.408163265306122" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=8.4898)"
+nmonfrequencies: 1
+monfrequencies: "8.4897959183673475" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=8.5714)"
+nmonfrequencies: 1
+monfrequencies: "8.5714285714285712" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=8.6531)"
+nmonfrequencies: 1
+monfrequencies: "8.6530612244897949" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=8.7347)"
+nmonfrequencies: 1
+monfrequencies: "8.7346938775510203" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=8.8163)"
+nmonfrequencies: 1
+monfrequencies: "8.8163265306122458" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=8.898)"
+nmonfrequencies: 1
+monfrequencies: "8.8979591836734695" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=8.9796)"
+nmonfrequencies: 1
+monfrequencies: "8.9795918367346932" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=9.0612)"
+nmonfrequencies: 1
+monfrequencies: "9.0612244897959169" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=9.1429)"
+nmonfrequencies: 1
+monfrequencies: "9.1428571428571441" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=9.2245)"
+nmonfrequencies: 1
+monfrequencies: "9.2244897959183678" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=9.3061)"
+nmonfrequencies: 1
+monfrequencies: "9.3061224489795915" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=9.3878)"
+nmonfrequencies: 1
+monfrequencies: "9.387755102040817" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=9.4694)"
+nmonfrequencies: 1
+monfrequencies: "9.4693877551020407" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=9.551)"
+nmonfrequencies: 1
+monfrequencies: "9.5510204081632644" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=9.6327)"
+nmonfrequencies: 1
+monfrequencies: "9.6326530612244898" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=9.7143)"
+nmonfrequencies: 1
+monfrequencies: "9.7142857142857153" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=9.7959)"
+nmonfrequencies: 1
+monfrequencies: "9.795918367346939" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=9.8776)"
+nmonfrequencies: 1
+monfrequencies: "9.8775510204081627" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=9.9592)"
+nmonfrequencies: 1
+monfrequencies: "9.9591836734693864" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=10.0408)"
+nmonfrequencies: 1
+monfrequencies: "10.040816326530614" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=10.1224)"
+nmonfrequencies: 1
+monfrequencies: "10.122448979591837" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=10.2041)"
+nmonfrequencies: 1
+monfrequencies: "10.204081632653061" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=10.2857)"
+nmonfrequencies: 1
+monfrequencies: "10.285714285714286" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=10.3673)"
+nmonfrequencies: 1
+monfrequencies: "10.36734693877551" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=10.449)"
+nmonfrequencies: 1
+monfrequencies: "10.448979591836736" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=10.5306)"
+nmonfrequencies: 1
+monfrequencies: "10.530612244897959" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=10.6122)"
+nmonfrequencies: 1
+monfrequencies: "10.612244897959183" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=10.6939)"
+nmonfrequencies: 1
+monfrequencies: "10.693877551020408" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=10.7755)"
+nmonfrequencies: 1
+monfrequencies: "10.775510204081632" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=10.8571)"
+nmonfrequencies: 1
+monfrequencies: "10.857142857142856" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=10.9388)"
+nmonfrequencies: 1
+monfrequencies: "10.938775510204083" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=11.0204)"
+nmonfrequencies: 1
+monfrequencies: "11.020408163265307" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=11.102)"
+nmonfrequencies: 1
+monfrequencies: "11.102040816326531" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=11.1837)"
+nmonfrequencies: 1
+monfrequencies: "11.183673469387754" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=11.2653)"
+nmonfrequencies: 1
+monfrequencies: "11.265306122448978" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=11.3469)"
+nmonfrequencies: 1
+monfrequencies: "11.346938775510205" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=11.4286)"
+nmonfrequencies: 1
+monfrequencies: "11.428571428571429" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=11.5102)"
+nmonfrequencies: 1
+monfrequencies: "11.510204081632653" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=11.5918)"
+nmonfrequencies: 1
+monfrequencies: "11.591836734693878" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=11.6735)"
+nmonfrequencies: 1
+monfrequencies: "11.673469387755102" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=11.7551)"
+nmonfrequencies: 1
+monfrequencies: "11.755102040816325" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=11.8367)"
+nmonfrequencies: 1
+monfrequencies: "11.836734693877553" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=11.9184)"
+nmonfrequencies: 1
+monfrequencies: "11.918367346938776" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=12)"
+nmonfrequencies: 1
+monfrequencies: "12" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=25)"
+nmonfrequencies: 1
+monfrequencies: "25" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=25.0606)"
+nmonfrequencies: 1
+monfrequencies: "25.060606060606059" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=25.1212)"
+nmonfrequencies: 1
+monfrequencies: "25.121212121212121" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=25.1224)"
+nmonfrequencies: 1
+monfrequencies: "25.122448979591834" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=25.1818)"
+nmonfrequencies: 1
+monfrequencies: "25.18181818181818" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=25.2424)"
+nmonfrequencies: 1
+monfrequencies: "25.242424242424242" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=25.2449)"
+nmonfrequencies: 1
+monfrequencies: "25.244897959183675" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=25.303)"
+nmonfrequencies: 1
+monfrequencies: "25.303030303030305" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=25.3636)"
+nmonfrequencies: 1
+monfrequencies: "25.363636363636363" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=25.3673)"
+nmonfrequencies: 1
+monfrequencies: "25.367346938775508" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=25.4242)"
+nmonfrequencies: 1
+monfrequencies: "25.424242424242426" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=25.4848)"
+nmonfrequencies: 1
+monfrequencies: "25.484848484848484" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=25.4898)"
+nmonfrequencies: 1
+monfrequencies: "25.489795918367349" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=25.5455)"
+nmonfrequencies: 1
+monfrequencies: "25.545454545454543" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=25.6061)"
+nmonfrequencies: 1
+monfrequencies: "25.606060606060609" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=25.6122)"
+nmonfrequencies: 1
+monfrequencies: "25.612244897959183" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=25.6667)"
+nmonfrequencies: 1
+monfrequencies: "25.666666666666668" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=25.7273)"
+nmonfrequencies: 1
+monfrequencies: "25.727272727272727" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=25.7347)"
+nmonfrequencies: 1
+monfrequencies: "25.73469387755102" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=25.7879)"
+nmonfrequencies: 1
+monfrequencies: "25.787878787878789" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=25.8485)"
+nmonfrequencies: 1
+monfrequencies: "25.848484848484848" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=25.8571)"
+nmonfrequencies: 1
+monfrequencies: "25.857142857142858" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=25.9091)"
+nmonfrequencies: 1
+monfrequencies: "25.909090909090907" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=25.9697)"
+nmonfrequencies: 1
+monfrequencies: "25.969696969696969" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=25.9796)"
+nmonfrequencies: 1
+monfrequencies: "25.979591836734695" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=26.0303)"
+nmonfrequencies: 1
+monfrequencies: "26.030303030303031" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=26.0909)"
+nmonfrequencies: 1
+monfrequencies: "26.090909090909093" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=26.102)"
+nmonfrequencies: 1
+monfrequencies: "26.102040816326529" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=26.1515)"
+nmonfrequencies: 1
+monfrequencies: "26.151515151515152" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=26.2121)"
+nmonfrequencies: 1
+monfrequencies: "26.212121212121211" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=26.2245)"
+nmonfrequencies: 1
+monfrequencies: "26.224489795918366" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=26.2727)"
+nmonfrequencies: 1
+monfrequencies: "26.272727272727273" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=26.3333)"
+nmonfrequencies: 1
+monfrequencies: "26.333333333333332" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=26.3469)"
+nmonfrequencies: 1
+monfrequencies: "26.346938775510203" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=26.3939)"
+nmonfrequencies: 1
+monfrequencies: "26.393939393939391" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=26.4545)"
+nmonfrequencies: 1
+monfrequencies: "26.454545454545457" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=26.4694)"
+nmonfrequencies: 1
+monfrequencies: "26.469387755102041" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=26.5152)"
+nmonfrequencies: 1
+monfrequencies: "26.515151515151516" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=26.5758)"
+nmonfrequencies: 1
+monfrequencies: "26.575757575757574" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=26.5918)"
+nmonfrequencies: 1
+monfrequencies: "26.591836734693878" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=26.6364)"
+nmonfrequencies: 1
+monfrequencies: "26.636363636363637" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=26.697)"
+nmonfrequencies: 1
+monfrequencies: "26.696969696969695" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=26.7143)"
+nmonfrequencies: 1
+monfrequencies: "26.714285714285712" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=26.7576)"
+nmonfrequencies: 1
+monfrequencies: "26.757575757575758" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=26.8182)"
+nmonfrequencies: 1
+monfrequencies: "26.81818181818182" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=26.8367)"
+nmonfrequencies: 1
+monfrequencies: "26.836734693877553" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=26.8788)"
+nmonfrequencies: 1
+monfrequencies: "26.878787878787879" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=26.9394)"
+nmonfrequencies: 1
+monfrequencies: "26.939393939393941" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=26.9592)"
+nmonfrequencies: 1
+monfrequencies: "26.959183673469386" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=27)"
+nmonfrequencies: 1
+monfrequencies: "27" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=27.0606)"
+nmonfrequencies: 1
+monfrequencies: "27.060606060606059" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=27.0816)"
+nmonfrequencies: 1
+monfrequencies: "27.081632653061227" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=27.1212)"
+nmonfrequencies: 1
+monfrequencies: "27.121212121212121" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=27.1818)"
+nmonfrequencies: 1
+monfrequencies: "27.181818181818183" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=27.2041)"
+nmonfrequencies: 1
+monfrequencies: "27.204081632653061" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=27.2424)"
+nmonfrequencies: 1
+monfrequencies: "27.242424242424242" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=27.303)"
+nmonfrequencies: 1
+monfrequencies: "27.303030303030305" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=27.3265)"
+nmonfrequencies: 1
+monfrequencies: "27.326530612244895" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=27.3636)"
+nmonfrequencies: 1
+monfrequencies: "27.363636363636363" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=27.4242)"
+nmonfrequencies: 1
+monfrequencies: "27.424242424242426" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=27.449)"
+nmonfrequencies: 1
+monfrequencies: "27.448979591836736" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=27.4848)"
+nmonfrequencies: 1
+monfrequencies: "27.484848484848484" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=27.5455)"
+nmonfrequencies: 1
+monfrequencies: "27.545454545454543" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=27.5714)"
+nmonfrequencies: 1
+monfrequencies: "27.571428571428569" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=27.6061)"
+nmonfrequencies: 1
+monfrequencies: "27.606060606060609" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=27.6667)"
+nmonfrequencies: 1
+monfrequencies: "27.666666666666668" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=27.6939)"
+nmonfrequencies: 1
+monfrequencies: "27.69387755102041" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=27.7273)"
+nmonfrequencies: 1
+monfrequencies: "27.727272727272727" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=27.7879)"
+nmonfrequencies: 1
+monfrequencies: "27.787878787878789" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=27.8163)"
+nmonfrequencies: 1
+monfrequencies: "27.816326530612244" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=27.8485)"
+nmonfrequencies: 1
+monfrequencies: "27.848484848484848" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=27.9091)"
+nmonfrequencies: 1
+monfrequencies: "27.909090909090907" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=27.9388)"
+nmonfrequencies: 1
+monfrequencies: "27.938775510204081" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=27.9697)"
+nmonfrequencies: 1
+monfrequencies: "27.969696969696969" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=28.0303)"
+nmonfrequencies: 1
+monfrequencies: "28.030303030303031" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=28.0612)"
+nmonfrequencies: 1
+monfrequencies: "28.061224489795919" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=28.0909)"
+nmonfrequencies: 1
+monfrequencies: "28.090909090909093" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=28.1515)"
+nmonfrequencies: 1
+monfrequencies: "28.151515151515152" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=28.1837)"
+nmonfrequencies: 1
+monfrequencies: "28.183673469387756" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=28.2121)"
+nmonfrequencies: 1
+monfrequencies: "28.212121212121211" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=28.2727)"
+nmonfrequencies: 1
+monfrequencies: "28.272727272727273" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=28.3061)"
+nmonfrequencies: 1
+monfrequencies: "28.30612244897959" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=28.3333)"
+nmonfrequencies: 1
+monfrequencies: "28.333333333333332" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=28.3939)"
+nmonfrequencies: 1
+monfrequencies: "28.393939393939391" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=28.4286)"
+nmonfrequencies: 1
+monfrequencies: "28.428571428571431" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=28.4545)"
+nmonfrequencies: 1
+monfrequencies: "28.454545454545457" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=28.5152)"
+nmonfrequencies: 1
+monfrequencies: "28.515151515151516" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=28.551)"
+nmonfrequencies: 1
+monfrequencies: "28.551020408163264" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=28.5758)"
+nmonfrequencies: 1
+monfrequencies: "28.575757575757574" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=28.6364)"
+nmonfrequencies: 1
+monfrequencies: "28.636363636363637" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=28.6735)"
+nmonfrequencies: 1
+monfrequencies: "28.673469387755105" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=28.697)"
+nmonfrequencies: 1
+monfrequencies: "28.696969696969695" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=28.7576)"
+nmonfrequencies: 1
+monfrequencies: "28.757575757575761" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=28.7959)"
+nmonfrequencies: 1
+monfrequencies: "28.795918367346939" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=28.8182)"
+nmonfrequencies: 1
+monfrequencies: "28.81818181818182" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=28.8788)"
+nmonfrequencies: 1
+monfrequencies: "28.878787878787879" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=28.9184)"
+nmonfrequencies: 1
+monfrequencies: "28.918367346938773" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=28.9394)"
+nmonfrequencies: 1
+monfrequencies: "28.939393939393941" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=29)"
+nmonfrequencies: 1
+monfrequencies: "29" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=29.0408)"
+nmonfrequencies: 1
+monfrequencies: "29.040816326530614" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=29.0606)"
+nmonfrequencies: 1
+monfrequencies: "29.060606060606059" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=29.1212)"
+nmonfrequencies: 1
+monfrequencies: "29.121212121212121" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=29.1633)"
+nmonfrequencies: 1
+monfrequencies: "29.163265306122447" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=29.1818)"
+nmonfrequencies: 1
+monfrequencies: "29.181818181818183" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=29.2424)"
+nmonfrequencies: 1
+monfrequencies: "29.242424242424242" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=29.2857)"
+nmonfrequencies: 1
+monfrequencies: "29.285714285714288" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=29.303)"
+nmonfrequencies: 1
+monfrequencies: "29.303030303030305" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=29.3636)"
+nmonfrequencies: 1
+monfrequencies: "29.363636363636363" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=29.4082)"
+nmonfrequencies: 1
+monfrequencies: "29.408163265306122" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=29.4242)"
+nmonfrequencies: 1
+monfrequencies: "29.424242424242426" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=29.4848)"
+nmonfrequencies: 1
+monfrequencies: "29.484848484848484" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=29.5306)"
+nmonfrequencies: 1
+monfrequencies: "29.530612244897956" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=29.5455)"
+nmonfrequencies: 1
+monfrequencies: "29.545454545454543" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=29.6061)"
+nmonfrequencies: 1
+monfrequencies: "29.606060606060609" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=29.6531)"
+nmonfrequencies: 1
+monfrequencies: "29.653061224489797" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=29.6667)"
+nmonfrequencies: 1
+monfrequencies: "29.666666666666668" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=29.7273)"
+nmonfrequencies: 1
+monfrequencies: "29.727272727272727" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=29.7755)"
+nmonfrequencies: 1
+monfrequencies: "29.775510204081634" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=29.7879)"
+nmonfrequencies: 1
+monfrequencies: "29.787878787878789" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=29.8485)"
+nmonfrequencies: 1
+monfrequencies: "29.848484848484848" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=29.898)"
+nmonfrequencies: 1
+monfrequencies: "29.897959183673471" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=29.9091)"
+nmonfrequencies: 1
+monfrequencies: "29.909090909090907" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=29.9697)"
+nmonfrequencies: 1
+monfrequencies: "29.969696969696969" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=30.0204)"
+nmonfrequencies: 1
+monfrequencies: "30.020408163265305" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=30.0303)"
+nmonfrequencies: 1
+monfrequencies: "30.030303030303031" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=30.0909)"
+nmonfrequencies: 1
+monfrequencies: "30.090909090909093" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=30.1429)"
+nmonfrequencies: 1
+monfrequencies: "30.142857142857142" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=30.1515)"
+nmonfrequencies: 1
+monfrequencies: "30.151515151515152" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=30.2121)"
+nmonfrequencies: 1
+monfrequencies: "30.212121212121211" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=30.2653)"
+nmonfrequencies: 1
+monfrequencies: "30.26530612244898" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=30.2727)"
+nmonfrequencies: 1
+monfrequencies: "30.272727272727273" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=30.3333)"
+nmonfrequencies: 1
+monfrequencies: "30.333333333333336" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=30.3878)"
+nmonfrequencies: 1
+monfrequencies: "30.387755102040817" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=30.3939)"
+nmonfrequencies: 1
+monfrequencies: "30.393939393939391" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=30.4545)"
+nmonfrequencies: 1
+monfrequencies: "30.454545454545457" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=30.5102)"
+nmonfrequencies: 1
+monfrequencies: "30.510204081632651" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=30.5152)"
+nmonfrequencies: 1
+monfrequencies: "30.515151515151516" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=30.5758)"
+nmonfrequencies: 1
+monfrequencies: "30.575757575757574" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=30.6327)"
+nmonfrequencies: 1
+monfrequencies: "30.632653061224492" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=30.6364)"
+nmonfrequencies: 1
+monfrequencies: "30.636363636363637" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=30.697)"
+nmonfrequencies: 1
+monfrequencies: "30.696969696969695" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=30.7551)"
+nmonfrequencies: 1
+monfrequencies: "30.755102040816325" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=30.7576)"
+nmonfrequencies: 1
+monfrequencies: "30.757575757575761" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=30.8182)"
+nmonfrequencies: 1
+monfrequencies: "30.818181818181817" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=30.8776)"
+nmonfrequencies: 1
+monfrequencies: "30.877551020408166" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=30.8788)"
+nmonfrequencies: 1
+monfrequencies: "30.878787878787879" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=30.9394)"
+nmonfrequencies: 1
+monfrequencies: "30.939393939393941" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "farfield (f=31)"
+nmonfrequencies: 1
+monfrequencies: "31" 
+montype: 18
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=31)"
+nmonfrequencies: 1
+monfrequencies: "31" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=30.9394)"
+nmonfrequencies: 1
+monfrequencies: "30.939393939393941" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=30.8788)"
+nmonfrequencies: 1
+monfrequencies: "30.878787878787879" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=30.8182)"
+nmonfrequencies: 1
+monfrequencies: "30.818181818181817" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=30.7576)"
+nmonfrequencies: 1
+monfrequencies: "30.757575757575761" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=30.697)"
+nmonfrequencies: 1
+monfrequencies: "30.696969696969695" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=30.6364)"
+nmonfrequencies: 1
+monfrequencies: "30.636363636363637" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=30.5758)"
+nmonfrequencies: 1
+monfrequencies: "30.575757575757574" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=30.5152)"
+nmonfrequencies: 1
+monfrequencies: "30.515151515151516" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=30.4545)"
+nmonfrequencies: 1
+monfrequencies: "30.454545454545457" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=30.3939)"
+nmonfrequencies: 1
+monfrequencies: "30.393939393939391" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=30.3333)"
+nmonfrequencies: 1
+monfrequencies: "30.333333333333336" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=30.2727)"
+nmonfrequencies: 1
+monfrequencies: "30.272727272727273" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=30.2121)"
+nmonfrequencies: 1
+monfrequencies: "30.212121212121211" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=30.1515)"
+nmonfrequencies: 1
+monfrequencies: "30.151515151515152" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=30.0909)"
+nmonfrequencies: 1
+monfrequencies: "30.090909090909093" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=30.0303)"
+nmonfrequencies: 1
+monfrequencies: "30.030303030303031" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=29.9697)"
+nmonfrequencies: 1
+monfrequencies: "29.969696969696969" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=29.9091)"
+nmonfrequencies: 1
+monfrequencies: "29.909090909090907" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=29.8485)"
+nmonfrequencies: 1
+monfrequencies: "29.848484848484848" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=29.7879)"
+nmonfrequencies: 1
+monfrequencies: "29.787878787878789" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=29.7273)"
+nmonfrequencies: 1
+monfrequencies: "29.727272727272727" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=29.6667)"
+nmonfrequencies: 1
+monfrequencies: "29.666666666666668" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=29.6061)"
+nmonfrequencies: 1
+monfrequencies: "29.606060606060609" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=29.5455)"
+nmonfrequencies: 1
+monfrequencies: "29.545454545454543" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=29.4848)"
+nmonfrequencies: 1
+monfrequencies: "29.484848484848484" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=29.4242)"
+nmonfrequencies: 1
+monfrequencies: "29.424242424242426" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=29.3636)"
+nmonfrequencies: 1
+monfrequencies: "29.363636363636363" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=29.303)"
+nmonfrequencies: 1
+monfrequencies: "29.303030303030305" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=29.2424)"
+nmonfrequencies: 1
+monfrequencies: "29.242424242424242" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=29.1818)"
+nmonfrequencies: 1
+monfrequencies: "29.181818181818183" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=29.1212)"
+nmonfrequencies: 1
+monfrequencies: "29.121212121212121" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=29.0606)"
+nmonfrequencies: 1
+monfrequencies: "29.060606060606059" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=29)"
+nmonfrequencies: 1
+monfrequencies: "29" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=28.9394)"
+nmonfrequencies: 1
+monfrequencies: "28.939393939393941" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=28.8788)"
+nmonfrequencies: 1
+monfrequencies: "28.878787878787879" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=28.8182)"
+nmonfrequencies: 1
+monfrequencies: "28.81818181818182" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=28.7576)"
+nmonfrequencies: 1
+monfrequencies: "28.757575757575761" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=28.697)"
+nmonfrequencies: 1
+monfrequencies: "28.696969696969695" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=28.6364)"
+nmonfrequencies: 1
+monfrequencies: "28.636363636363637" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=28.5758)"
+nmonfrequencies: 1
+monfrequencies: "28.575757575757574" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=28.5152)"
+nmonfrequencies: 1
+monfrequencies: "28.515151515151516" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=28.4545)"
+nmonfrequencies: 1
+monfrequencies: "28.454545454545457" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=28.3939)"
+nmonfrequencies: 1
+monfrequencies: "28.393939393939391" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=28.3333)"
+nmonfrequencies: 1
+monfrequencies: "28.333333333333332" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=28.2727)"
+nmonfrequencies: 1
+monfrequencies: "28.272727272727273" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=28.2121)"
+nmonfrequencies: 1
+monfrequencies: "28.212121212121211" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=28.1515)"
+nmonfrequencies: 1
+monfrequencies: "28.151515151515152" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=28.0909)"
+nmonfrequencies: 1
+monfrequencies: "28.090909090909093" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=28.0303)"
+nmonfrequencies: 1
+monfrequencies: "28.030303030303031" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=27.9697)"
+nmonfrequencies: 1
+monfrequencies: "27.969696969696969" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=27.9091)"
+nmonfrequencies: 1
+monfrequencies: "27.909090909090907" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=27.8485)"
+nmonfrequencies: 1
+monfrequencies: "27.848484848484848" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=27.7879)"
+nmonfrequencies: 1
+monfrequencies: "27.787878787878789" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=27.7273)"
+nmonfrequencies: 1
+monfrequencies: "27.727272727272727" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=27.6667)"
+nmonfrequencies: 1
+monfrequencies: "27.666666666666668" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=27.6061)"
+nmonfrequencies: 1
+monfrequencies: "27.606060606060609" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=27.5455)"
+nmonfrequencies: 1
+monfrequencies: "27.545454545454543" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=27.4848)"
+nmonfrequencies: 1
+monfrequencies: "27.484848484848484" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=27.4242)"
+nmonfrequencies: 1
+monfrequencies: "27.424242424242426" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=27.3636)"
+nmonfrequencies: 1
+monfrequencies: "27.363636363636363" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=27.303)"
+nmonfrequencies: 1
+monfrequencies: "27.303030303030305" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=27.2424)"
+nmonfrequencies: 1
+monfrequencies: "27.242424242424242" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=27.1818)"
+nmonfrequencies: 1
+monfrequencies: "27.181818181818183" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=27.1212)"
+nmonfrequencies: 1
+monfrequencies: "27.121212121212121" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=27.0606)"
+nmonfrequencies: 1
+monfrequencies: "27.060606060606059" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=27)"
+nmonfrequencies: 1
+monfrequencies: "27" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=26.9394)"
+nmonfrequencies: 1
+monfrequencies: "26.939393939393941" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=26.8788)"
+nmonfrequencies: 1
+monfrequencies: "26.878787878787879" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=26.8182)"
+nmonfrequencies: 1
+monfrequencies: "26.81818181818182" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=26.7576)"
+nmonfrequencies: 1
+monfrequencies: "26.757575757575758" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=26.697)"
+nmonfrequencies: 1
+monfrequencies: "26.696969696969695" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=26.6364)"
+nmonfrequencies: 1
+monfrequencies: "26.636363636363637" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=26.5758)"
+nmonfrequencies: 1
+monfrequencies: "26.575757575757574" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=26.5152)"
+nmonfrequencies: 1
+monfrequencies: "26.515151515151516" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=26.4545)"
+nmonfrequencies: 1
+monfrequencies: "26.454545454545457" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=26.3939)"
+nmonfrequencies: 1
+monfrequencies: "26.393939393939391" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=26.3333)"
+nmonfrequencies: 1
+monfrequencies: "26.333333333333332" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=26.2727)"
+nmonfrequencies: 1
+monfrequencies: "26.272727272727273" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=26.2121)"
+nmonfrequencies: 1
+monfrequencies: "26.212121212121211" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=26.1515)"
+nmonfrequencies: 1
+monfrequencies: "26.151515151515152" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=26.0909)"
+nmonfrequencies: 1
+monfrequencies: "26.090909090909093" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=26.0303)"
+nmonfrequencies: 1
+monfrequencies: "26.030303030303031" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=25.9697)"
+nmonfrequencies: 1
+monfrequencies: "25.969696969696969" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=25.9091)"
+nmonfrequencies: 1
+monfrequencies: "25.909090909090907" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=25.8485)"
+nmonfrequencies: 1
+monfrequencies: "25.848484848484848" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=25.7879)"
+nmonfrequencies: 1
+monfrequencies: "25.787878787878789" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=25.7273)"
+nmonfrequencies: 1
+monfrequencies: "25.727272727272727" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=25.6667)"
+nmonfrequencies: 1
+monfrequencies: "25.666666666666668" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=25.6061)"
+nmonfrequencies: 1
+monfrequencies: "25.606060606060609" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=25.5455)"
+nmonfrequencies: 1
+monfrequencies: "25.545454545454543" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=25.4848)"
+nmonfrequencies: 1
+monfrequencies: "25.484848484848484" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=25.4242)"
+nmonfrequencies: 1
+monfrequencies: "25.424242424242426" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=25.3636)"
+nmonfrequencies: 1
+monfrequencies: "25.363636363636363" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=25.303)"
+nmonfrequencies: 1
+monfrequencies: "25.303030303030305" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=25.2424)"
+nmonfrequencies: 1
+monfrequencies: "25.242424242424242" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=25.1818)"
+nmonfrequencies: 1
+monfrequencies: "25.18181818181818" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=25.1212)"
+nmonfrequencies: 1
+monfrequencies: "25.121212121212121" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=25.0606)"
+nmonfrequencies: 1
+monfrequencies: "25.060606060606059" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=25)"
+nmonfrequencies: 1
+monfrequencies: "25" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=31)"
+nmonfrequencies: 1
+monfrequencies: "31" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=30.9394)"
+nmonfrequencies: 1
+monfrequencies: "30.939393939393941" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=30.8788)"
+nmonfrequencies: 1
+monfrequencies: "30.878787878787879" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=30.8182)"
+nmonfrequencies: 1
+monfrequencies: "30.818181818181817" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=30.7576)"
+nmonfrequencies: 1
+monfrequencies: "30.757575757575761" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=30.697)"
+nmonfrequencies: 1
+monfrequencies: "30.696969696969695" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=30.6364)"
+nmonfrequencies: 1
+monfrequencies: "30.636363636363637" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=30.5758)"
+nmonfrequencies: 1
+monfrequencies: "30.575757575757574" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=30.5152)"
+nmonfrequencies: 1
+monfrequencies: "30.515151515151516" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=30.4545)"
+nmonfrequencies: 1
+monfrequencies: "30.454545454545457" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=30.3939)"
+nmonfrequencies: 1
+monfrequencies: "30.393939393939391" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=30.3333)"
+nmonfrequencies: 1
+monfrequencies: "30.333333333333336" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=30.2727)"
+nmonfrequencies: 1
+monfrequencies: "30.272727272727273" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=30.2121)"
+nmonfrequencies: 1
+monfrequencies: "30.212121212121211" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=30.1515)"
+nmonfrequencies: 1
+monfrequencies: "30.151515151515152" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=30.0909)"
+nmonfrequencies: 1
+monfrequencies: "30.090909090909093" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=30.0303)"
+nmonfrequencies: 1
+monfrequencies: "30.030303030303031" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=29.9697)"
+nmonfrequencies: 1
+monfrequencies: "29.969696969696969" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=29.9091)"
+nmonfrequencies: 1
+monfrequencies: "29.909090909090907" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=29.8485)"
+nmonfrequencies: 1
+monfrequencies: "29.848484848484848" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=29.7879)"
+nmonfrequencies: 1
+monfrequencies: "29.787878787878789" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=29.7273)"
+nmonfrequencies: 1
+monfrequencies: "29.727272727272727" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=29.6667)"
+nmonfrequencies: 1
+monfrequencies: "29.666666666666668" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=29.6061)"
+nmonfrequencies: 1
+monfrequencies: "29.606060606060609" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=29.5455)"
+nmonfrequencies: 1
+monfrequencies: "29.545454545454543" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=29.4848)"
+nmonfrequencies: 1
+monfrequencies: "29.484848484848484" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=29.4242)"
+nmonfrequencies: 1
+monfrequencies: "29.424242424242426" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=29.3636)"
+nmonfrequencies: 1
+monfrequencies: "29.363636363636363" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=29.303)"
+nmonfrequencies: 1
+monfrequencies: "29.303030303030305" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=29.2424)"
+nmonfrequencies: 1
+monfrequencies: "29.242424242424242" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=29.1818)"
+nmonfrequencies: 1
+monfrequencies: "29.181818181818183" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=29.1212)"
+nmonfrequencies: 1
+monfrequencies: "29.121212121212121" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=29.0606)"
+nmonfrequencies: 1
+monfrequencies: "29.060606060606059" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=29)"
+nmonfrequencies: 1
+monfrequencies: "29" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=28.9394)"
+nmonfrequencies: 1
+monfrequencies: "28.939393939393941" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=28.8788)"
+nmonfrequencies: 1
+monfrequencies: "28.878787878787879" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=28.8182)"
+nmonfrequencies: 1
+monfrequencies: "28.81818181818182" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=28.7576)"
+nmonfrequencies: 1
+monfrequencies: "28.757575757575761" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=28.697)"
+nmonfrequencies: 1
+monfrequencies: "28.696969696969695" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=28.6364)"
+nmonfrequencies: 1
+monfrequencies: "28.636363636363637" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=28.5758)"
+nmonfrequencies: 1
+monfrequencies: "28.575757575757574" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=28.5152)"
+nmonfrequencies: 1
+monfrequencies: "28.515151515151516" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=28.4545)"
+nmonfrequencies: 1
+monfrequencies: "28.454545454545457" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=28.3939)"
+nmonfrequencies: 1
+monfrequencies: "28.393939393939391" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=28.3333)"
+nmonfrequencies: 1
+monfrequencies: "28.333333333333332" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=28.2727)"
+nmonfrequencies: 1
+monfrequencies: "28.272727272727273" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=28.2121)"
+nmonfrequencies: 1
+monfrequencies: "28.212121212121211" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=28.1515)"
+nmonfrequencies: 1
+monfrequencies: "28.151515151515152" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=28.0909)"
+nmonfrequencies: 1
+monfrequencies: "28.090909090909093" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=28.0303)"
+nmonfrequencies: 1
+monfrequencies: "28.030303030303031" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=27.9697)"
+nmonfrequencies: 1
+monfrequencies: "27.969696969696969" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=27.9091)"
+nmonfrequencies: 1
+monfrequencies: "27.909090909090907" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=27.8485)"
+nmonfrequencies: 1
+monfrequencies: "27.848484848484848" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=27.7879)"
+nmonfrequencies: 1
+monfrequencies: "27.787878787878789" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=27.7273)"
+nmonfrequencies: 1
+monfrequencies: "27.727272727272727" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=27.6667)"
+nmonfrequencies: 1
+monfrequencies: "27.666666666666668" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=27.6061)"
+nmonfrequencies: 1
+monfrequencies: "27.606060606060609" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=27.5455)"
+nmonfrequencies: 1
+monfrequencies: "27.545454545454543" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=27.4848)"
+nmonfrequencies: 1
+monfrequencies: "27.484848484848484" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=27.4242)"
+nmonfrequencies: 1
+monfrequencies: "27.424242424242426" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=27.3636)"
+nmonfrequencies: 1
+monfrequencies: "27.363636363636363" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=27.303)"
+nmonfrequencies: 1
+monfrequencies: "27.303030303030305" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=27.2424)"
+nmonfrequencies: 1
+monfrequencies: "27.242424242424242" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=27.1818)"
+nmonfrequencies: 1
+monfrequencies: "27.181818181818183" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=27.1212)"
+nmonfrequencies: 1
+monfrequencies: "27.121212121212121" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=27.0606)"
+nmonfrequencies: 1
+monfrequencies: "27.060606060606059" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=27)"
+nmonfrequencies: 1
+monfrequencies: "27" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=26.9394)"
+nmonfrequencies: 1
+monfrequencies: "26.939393939393941" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=26.8788)"
+nmonfrequencies: 1
+monfrequencies: "26.878787878787879" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=26.8182)"
+nmonfrequencies: 1
+monfrequencies: "26.81818181818182" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=26.7576)"
+nmonfrequencies: 1
+monfrequencies: "26.757575757575758" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=26.697)"
+nmonfrequencies: 1
+monfrequencies: "26.696969696969695" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=26.6364)"
+nmonfrequencies: 1
+monfrequencies: "26.636363636363637" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=26.5758)"
+nmonfrequencies: 1
+monfrequencies: "26.575757575757574" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=26.5152)"
+nmonfrequencies: 1
+monfrequencies: "26.515151515151516" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=26.4545)"
+nmonfrequencies: 1
+monfrequencies: "26.454545454545457" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=26.3939)"
+nmonfrequencies: 1
+monfrequencies: "26.393939393939391" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=26.3333)"
+nmonfrequencies: 1
+monfrequencies: "26.333333333333332" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=26.2727)"
+nmonfrequencies: 1
+monfrequencies: "26.272727272727273" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=26.2121)"
+nmonfrequencies: 1
+monfrequencies: "26.212121212121211" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=26.1515)"
+nmonfrequencies: 1
+monfrequencies: "26.151515151515152" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=26.0909)"
+nmonfrequencies: 1
+monfrequencies: "26.090909090909093" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=26.0303)"
+nmonfrequencies: 1
+monfrequencies: "26.030303030303031" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=25.9697)"
+nmonfrequencies: 1
+monfrequencies: "25.969696969696969" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=25.9091)"
+nmonfrequencies: 1
+monfrequencies: "25.909090909090907" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=25.8485)"
+nmonfrequencies: 1
+monfrequencies: "25.848484848484848" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=25.7879)"
+nmonfrequencies: 1
+monfrequencies: "25.787878787878789" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=25.7273)"
+nmonfrequencies: 1
+monfrequencies: "25.727272727272727" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=25.6667)"
+nmonfrequencies: 1
+monfrequencies: "25.666666666666668" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=25.6061)"
+nmonfrequencies: 1
+monfrequencies: "25.606060606060609" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=25.5455)"
+nmonfrequencies: 1
+monfrequencies: "25.545454545454543" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=25.4848)"
+nmonfrequencies: 1
+monfrequencies: "25.484848484848484" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=25.4242)"
+nmonfrequencies: 1
+monfrequencies: "25.424242424242426" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=25.3636)"
+nmonfrequencies: 1
+monfrequencies: "25.363636363636363" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=25.303)"
+nmonfrequencies: 1
+monfrequencies: "25.303030303030305" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=25.2424)"
+nmonfrequencies: 1
+monfrequencies: "25.242424242424242" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=25.1818)"
+nmonfrequencies: 1
+monfrequencies: "25.18181818181818" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=25.1212)"
+nmonfrequencies: 1
+monfrequencies: "25.121212121212121" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=25.0606)"
+nmonfrequencies: 1
+monfrequencies: "25.060606060606059" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=25)"
+nmonfrequencies: 1
+monfrequencies: "25" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=31)"
+nmonfrequencies: 1
+monfrequencies: "31" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=30.9394)"
+nmonfrequencies: 1
+monfrequencies: "30.939393939393941" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=30.8788)"
+nmonfrequencies: 1
+monfrequencies: "30.878787878787879" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=30.8182)"
+nmonfrequencies: 1
+monfrequencies: "30.818181818181817" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=30.7576)"
+nmonfrequencies: 1
+monfrequencies: "30.757575757575761" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=30.697)"
+nmonfrequencies: 1
+monfrequencies: "30.696969696969695" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=30.6364)"
+nmonfrequencies: 1
+monfrequencies: "30.636363636363637" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=30.5758)"
+nmonfrequencies: 1
+monfrequencies: "30.575757575757574" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=30.5152)"
+nmonfrequencies: 1
+monfrequencies: "30.515151515151516" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=30.4545)"
+nmonfrequencies: 1
+monfrequencies: "30.454545454545457" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=30.3939)"
+nmonfrequencies: 1
+monfrequencies: "30.393939393939391" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=30.3333)"
+nmonfrequencies: 1
+monfrequencies: "30.333333333333336" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=30.2727)"
+nmonfrequencies: 1
+monfrequencies: "30.272727272727273" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=30.2121)"
+nmonfrequencies: 1
+monfrequencies: "30.212121212121211" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=30.1515)"
+nmonfrequencies: 1
+monfrequencies: "30.151515151515152" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=30.0909)"
+nmonfrequencies: 1
+monfrequencies: "30.090909090909093" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=30.0303)"
+nmonfrequencies: 1
+monfrequencies: "30.030303030303031" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=29.9697)"
+nmonfrequencies: 1
+monfrequencies: "29.969696969696969" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=29.9091)"
+nmonfrequencies: 1
+monfrequencies: "29.909090909090907" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=29.8485)"
+nmonfrequencies: 1
+monfrequencies: "29.848484848484848" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=29.7879)"
+nmonfrequencies: 1
+monfrequencies: "29.787878787878789" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=29.7273)"
+nmonfrequencies: 1
+monfrequencies: "29.727272727272727" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=29.6667)"
+nmonfrequencies: 1
+monfrequencies: "29.666666666666668" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=29.6061)"
+nmonfrequencies: 1
+monfrequencies: "29.606060606060609" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=29.5455)"
+nmonfrequencies: 1
+monfrequencies: "29.545454545454543" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=29.4848)"
+nmonfrequencies: 1
+monfrequencies: "29.484848484848484" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=29.4242)"
+nmonfrequencies: 1
+monfrequencies: "29.424242424242426" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=29.3636)"
+nmonfrequencies: 1
+monfrequencies: "29.363636363636363" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=29.303)"
+nmonfrequencies: 1
+monfrequencies: "29.303030303030305" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=29.2424)"
+nmonfrequencies: 1
+monfrequencies: "29.242424242424242" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=29.1818)"
+nmonfrequencies: 1
+monfrequencies: "29.181818181818183" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=29.1212)"
+nmonfrequencies: 1
+monfrequencies: "29.121212121212121" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=29.0606)"
+nmonfrequencies: 1
+monfrequencies: "29.060606060606059" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=29)"
+nmonfrequencies: 1
+monfrequencies: "29" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=28.9394)"
+nmonfrequencies: 1
+monfrequencies: "28.939393939393941" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=28.8788)"
+nmonfrequencies: 1
+monfrequencies: "28.878787878787879" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=28.8182)"
+nmonfrequencies: 1
+monfrequencies: "28.81818181818182" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=28.7576)"
+nmonfrequencies: 1
+monfrequencies: "28.757575757575761" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=28.697)"
+nmonfrequencies: 1
+monfrequencies: "28.696969696969695" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=28.6364)"
+nmonfrequencies: 1
+monfrequencies: "28.636363636363637" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=28.5758)"
+nmonfrequencies: 1
+monfrequencies: "28.575757575757574" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=28.5152)"
+nmonfrequencies: 1
+monfrequencies: "28.515151515151516" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=28.4545)"
+nmonfrequencies: 1
+monfrequencies: "28.454545454545457" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=28.3939)"
+nmonfrequencies: 1
+monfrequencies: "28.393939393939391" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=28.3333)"
+nmonfrequencies: 1
+monfrequencies: "28.333333333333332" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=28.2727)"
+nmonfrequencies: 1
+monfrequencies: "28.272727272727273" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=28.2121)"
+nmonfrequencies: 1
+monfrequencies: "28.212121212121211" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=28.1515)"
+nmonfrequencies: 1
+monfrequencies: "28.151515151515152" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=28.0909)"
+nmonfrequencies: 1
+monfrequencies: "28.090909090909093" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=28.0303)"
+nmonfrequencies: 1
+monfrequencies: "28.030303030303031" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=27.9697)"
+nmonfrequencies: 1
+monfrequencies: "27.969696969696969" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=27.9091)"
+nmonfrequencies: 1
+monfrequencies: "27.909090909090907" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=27.8485)"
+nmonfrequencies: 1
+monfrequencies: "27.848484848484848" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=27.7879)"
+nmonfrequencies: 1
+monfrequencies: "27.787878787878789" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=27.7273)"
+nmonfrequencies: 1
+monfrequencies: "27.727272727272727" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=27.6667)"
+nmonfrequencies: 1
+monfrequencies: "27.666666666666668" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=27.6061)"
+nmonfrequencies: 1
+monfrequencies: "27.606060606060609" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=27.5455)"
+nmonfrequencies: 1
+monfrequencies: "27.545454545454543" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=27.4848)"
+nmonfrequencies: 1
+monfrequencies: "27.484848484848484" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=27.4242)"
+nmonfrequencies: 1
+monfrequencies: "27.424242424242426" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=27.3636)"
+nmonfrequencies: 1
+monfrequencies: "27.363636363636363" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=27.303)"
+nmonfrequencies: 1
+monfrequencies: "27.303030303030305" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=27.2424)"
+nmonfrequencies: 1
+monfrequencies: "27.242424242424242" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=27.1818)"
+nmonfrequencies: 1
+monfrequencies: "27.181818181818183" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=27.1212)"
+nmonfrequencies: 1
+monfrequencies: "27.121212121212121" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=27.0606)"
+nmonfrequencies: 1
+monfrequencies: "27.060606060606059" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=27)"
+nmonfrequencies: 1
+monfrequencies: "27" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=26.9394)"
+nmonfrequencies: 1
+monfrequencies: "26.939393939393941" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=26.8788)"
+nmonfrequencies: 1
+monfrequencies: "26.878787878787879" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=26.8182)"
+nmonfrequencies: 1
+monfrequencies: "26.81818181818182" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=26.7576)"
+nmonfrequencies: 1
+monfrequencies: "26.757575757575758" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=26.697)"
+nmonfrequencies: 1
+monfrequencies: "26.696969696969695" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=26.6364)"
+nmonfrequencies: 1
+monfrequencies: "26.636363636363637" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=26.5758)"
+nmonfrequencies: 1
+monfrequencies: "26.575757575757574" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=26.5152)"
+nmonfrequencies: 1
+monfrequencies: "26.515151515151516" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=26.4545)"
+nmonfrequencies: 1
+monfrequencies: "26.454545454545457" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=26.3939)"
+nmonfrequencies: 1
+monfrequencies: "26.393939393939391" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=26.3333)"
+nmonfrequencies: 1
+monfrequencies: "26.333333333333332" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=26.2727)"
+nmonfrequencies: 1
+monfrequencies: "26.272727272727273" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=26.2121)"
+nmonfrequencies: 1
+monfrequencies: "26.212121212121211" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=26.1515)"
+nmonfrequencies: 1
+monfrequencies: "26.151515151515152" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=26.0909)"
+nmonfrequencies: 1
+monfrequencies: "26.090909090909093" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=26.0303)"
+nmonfrequencies: 1
+monfrequencies: "26.030303030303031" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=25.9697)"
+nmonfrequencies: 1
+monfrequencies: "25.969696969696969" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=25.9091)"
+nmonfrequencies: 1
+monfrequencies: "25.909090909090907" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=25.8485)"
+nmonfrequencies: 1
+monfrequencies: "25.848484848484848" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=25.7879)"
+nmonfrequencies: 1
+monfrequencies: "25.787878787878789" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=25.7273)"
+nmonfrequencies: 1
+monfrequencies: "25.727272727272727" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=25.6667)"
+nmonfrequencies: 1
+monfrequencies: "25.666666666666668" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=25.6061)"
+nmonfrequencies: 1
+monfrequencies: "25.606060606060609" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=25.5455)"
+nmonfrequencies: 1
+monfrequencies: "25.545454545454543" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=25.4848)"
+nmonfrequencies: 1
+monfrequencies: "25.484848484848484" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=25.4242)"
+nmonfrequencies: 1
+monfrequencies: "25.424242424242426" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=25.3636)"
+nmonfrequencies: 1
+monfrequencies: "25.363636363636363" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=25.303)"
+nmonfrequencies: 1
+monfrequencies: "25.303030303030305" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=25.2424)"
+nmonfrequencies: 1
+monfrequencies: "25.242424242424242" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=25.1818)"
+nmonfrequencies: 1
+monfrequencies: "25.18181818181818" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=25.1212)"
+nmonfrequencies: 1
+monfrequencies: "25.121212121212121" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=25.0606)"
+nmonfrequencies: 1
+monfrequencies: "25.060606060606059" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=25)"
+nmonfrequencies: 1
+monfrequencies: "25" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=30.8776)"
+nmonfrequencies: 1
+monfrequencies: "30.877551020408166" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=30.7551)"
+nmonfrequencies: 1
+monfrequencies: "30.755102040816325" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=30.6327)"
+nmonfrequencies: 1
+monfrequencies: "30.632653061224492" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=30.5102)"
+nmonfrequencies: 1
+monfrequencies: "30.510204081632651" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=30.3878)"
+nmonfrequencies: 1
+monfrequencies: "30.387755102040817" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=30.2653)"
+nmonfrequencies: 1
+monfrequencies: "30.26530612244898" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=30.1429)"
+nmonfrequencies: 1
+monfrequencies: "30.142857142857142" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=30.0204)"
+nmonfrequencies: 1
+monfrequencies: "30.020408163265305" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=29.898)"
+nmonfrequencies: 1
+monfrequencies: "29.897959183673471" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=29.7755)"
+nmonfrequencies: 1
+monfrequencies: "29.775510204081634" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=29.6531)"
+nmonfrequencies: 1
+monfrequencies: "29.653061224489797" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=29.5306)"
+nmonfrequencies: 1
+monfrequencies: "29.530612244897956" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=29.4082)"
+nmonfrequencies: 1
+monfrequencies: "29.408163265306122" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=29.2857)"
+nmonfrequencies: 1
+monfrequencies: "29.285714285714288" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=29.1633)"
+nmonfrequencies: 1
+monfrequencies: "29.163265306122447" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=29.0408)"
+nmonfrequencies: 1
+monfrequencies: "29.040816326530614" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=28.9184)"
+nmonfrequencies: 1
+monfrequencies: "28.918367346938773" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=28.7959)"
+nmonfrequencies: 1
+monfrequencies: "28.795918367346939" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=28.6735)"
+nmonfrequencies: 1
+monfrequencies: "28.673469387755105" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=28.551)"
+nmonfrequencies: 1
+monfrequencies: "28.551020408163264" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=28.4286)"
+nmonfrequencies: 1
+monfrequencies: "28.428571428571431" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=28.3061)"
+nmonfrequencies: 1
+monfrequencies: "28.30612244897959" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=28.1837)"
+nmonfrequencies: 1
+monfrequencies: "28.183673469387756" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=28.0612)"
+nmonfrequencies: 1
+monfrequencies: "28.061224489795919" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=27.9388)"
+nmonfrequencies: 1
+monfrequencies: "27.938775510204081" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=27.8163)"
+nmonfrequencies: 1
+monfrequencies: "27.816326530612244" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=27.6939)"
+nmonfrequencies: 1
+monfrequencies: "27.69387755102041" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=27.5714)"
+nmonfrequencies: 1
+monfrequencies: "27.571428571428569" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=27.449)"
+nmonfrequencies: 1
+monfrequencies: "27.448979591836736" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=27.3265)"
+nmonfrequencies: 1
+monfrequencies: "27.326530612244895" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=27.2041)"
+nmonfrequencies: 1
+monfrequencies: "27.204081632653061" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=27.0816)"
+nmonfrequencies: 1
+monfrequencies: "27.081632653061227" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=26.9592)"
+nmonfrequencies: 1
+monfrequencies: "26.959183673469386" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=26.8367)"
+nmonfrequencies: 1
+monfrequencies: "26.836734693877553" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=26.7143)"
+nmonfrequencies: 1
+monfrequencies: "26.714285714285712" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=26.5918)"
+nmonfrequencies: 1
+monfrequencies: "26.591836734693878" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=26.4694)"
+nmonfrequencies: 1
+monfrequencies: "26.469387755102041" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=26.3469)"
+nmonfrequencies: 1
+monfrequencies: "26.346938775510203" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=26.2245)"
+nmonfrequencies: 1
+monfrequencies: "26.224489795918366" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=26.102)"
+nmonfrequencies: 1
+monfrequencies: "26.102040816326529" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=25.9796)"
+nmonfrequencies: 1
+monfrequencies: "25.979591836734695" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=25.8571)"
+nmonfrequencies: 1
+monfrequencies: "25.857142857142858" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=25.7347)"
+nmonfrequencies: 1
+monfrequencies: "25.73469387755102" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=25.6122)"
+nmonfrequencies: 1
+monfrequencies: "25.612244897959183" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=25.4898)"
+nmonfrequencies: 1
+monfrequencies: "25.489795918367349" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=25.3673)"
+nmonfrequencies: 1
+monfrequencies: "25.367346938775508" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=25.2449)"
+nmonfrequencies: 1
+monfrequencies: "25.244897959183675" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=25.1224)"
+nmonfrequencies: 1
+monfrequencies: "25.122448979591834" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=30.8776)"
+nmonfrequencies: 1
+monfrequencies: "30.877551020408166" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=30.7551)"
+nmonfrequencies: 1
+monfrequencies: "30.755102040816325" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=30.6327)"
+nmonfrequencies: 1
+monfrequencies: "30.632653061224492" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=30.5102)"
+nmonfrequencies: 1
+monfrequencies: "30.510204081632651" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=30.3878)"
+nmonfrequencies: 1
+monfrequencies: "30.387755102040817" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=30.2653)"
+nmonfrequencies: 1
+monfrequencies: "30.26530612244898" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=30.1429)"
+nmonfrequencies: 1
+monfrequencies: "30.142857142857142" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=30.0204)"
+nmonfrequencies: 1
+monfrequencies: "30.020408163265305" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=29.898)"
+nmonfrequencies: 1
+monfrequencies: "29.897959183673471" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=29.7755)"
+nmonfrequencies: 1
+monfrequencies: "29.775510204081634" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=29.6531)"
+nmonfrequencies: 1
+monfrequencies: "29.653061224489797" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=29.5306)"
+nmonfrequencies: 1
+monfrequencies: "29.530612244897956" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=29.4082)"
+nmonfrequencies: 1
+monfrequencies: "29.408163265306122" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=29.2857)"
+nmonfrequencies: 1
+monfrequencies: "29.285714285714288" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=29.1633)"
+nmonfrequencies: 1
+monfrequencies: "29.163265306122447" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=29.0408)"
+nmonfrequencies: 1
+monfrequencies: "29.040816326530614" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=28.9184)"
+nmonfrequencies: 1
+monfrequencies: "28.918367346938773" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=28.7959)"
+nmonfrequencies: 1
+monfrequencies: "28.795918367346939" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=28.6735)"
+nmonfrequencies: 1
+monfrequencies: "28.673469387755105" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=28.551)"
+nmonfrequencies: 1
+monfrequencies: "28.551020408163264" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=28.4286)"
+nmonfrequencies: 1
+monfrequencies: "28.428571428571431" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=28.3061)"
+nmonfrequencies: 1
+monfrequencies: "28.30612244897959" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=28.1837)"
+nmonfrequencies: 1
+monfrequencies: "28.183673469387756" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=28.0612)"
+nmonfrequencies: 1
+monfrequencies: "28.061224489795919" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=27.9388)"
+nmonfrequencies: 1
+monfrequencies: "27.938775510204081" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=27.8163)"
+nmonfrequencies: 1
+monfrequencies: "27.816326530612244" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=27.6939)"
+nmonfrequencies: 1
+monfrequencies: "27.69387755102041" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=27.5714)"
+nmonfrequencies: 1
+monfrequencies: "27.571428571428569" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=27.449)"
+nmonfrequencies: 1
+monfrequencies: "27.448979591836736" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=27.3265)"
+nmonfrequencies: 1
+monfrequencies: "27.326530612244895" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=27.2041)"
+nmonfrequencies: 1
+monfrequencies: "27.204081632653061" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=27.0816)"
+nmonfrequencies: 1
+monfrequencies: "27.081632653061227" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=26.9592)"
+nmonfrequencies: 1
+monfrequencies: "26.959183673469386" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=26.8367)"
+nmonfrequencies: 1
+monfrequencies: "26.836734693877553" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=26.7143)"
+nmonfrequencies: 1
+monfrequencies: "26.714285714285712" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=26.5918)"
+nmonfrequencies: 1
+monfrequencies: "26.591836734693878" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=26.4694)"
+nmonfrequencies: 1
+monfrequencies: "26.469387755102041" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=26.3469)"
+nmonfrequencies: 1
+monfrequencies: "26.346938775510203" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=26.2245)"
+nmonfrequencies: 1
+monfrequencies: "26.224489795918366" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=26.102)"
+nmonfrequencies: 1
+monfrequencies: "26.102040816326529" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=25.9796)"
+nmonfrequencies: 1
+monfrequencies: "25.979591836734695" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=25.8571)"
+nmonfrequencies: 1
+monfrequencies: "25.857142857142858" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=25.7347)"
+nmonfrequencies: 1
+monfrequencies: "25.73469387755102" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=25.6122)"
+nmonfrequencies: 1
+monfrequencies: "25.612244897959183" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=25.4898)"
+nmonfrequencies: 1
+monfrequencies: "25.489795918367349" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=25.3673)"
+nmonfrequencies: 1
+monfrequencies: "25.367346938775508" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=25.2449)"
+nmonfrequencies: 1
+monfrequencies: "25.244897959183675" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=25.1224)"
+nmonfrequencies: 1
+monfrequencies: "25.122448979591834" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=30.8776)"
+nmonfrequencies: 1
+monfrequencies: "30.877551020408166" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=30.7551)"
+nmonfrequencies: 1
+monfrequencies: "30.755102040816325" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=30.6327)"
+nmonfrequencies: 1
+monfrequencies: "30.632653061224492" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=30.5102)"
+nmonfrequencies: 1
+monfrequencies: "30.510204081632651" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=30.3878)"
+nmonfrequencies: 1
+monfrequencies: "30.387755102040817" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=30.2653)"
+nmonfrequencies: 1
+monfrequencies: "30.26530612244898" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=30.1429)"
+nmonfrequencies: 1
+monfrequencies: "30.142857142857142" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=30.0204)"
+nmonfrequencies: 1
+monfrequencies: "30.020408163265305" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=29.898)"
+nmonfrequencies: 1
+monfrequencies: "29.897959183673471" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=29.7755)"
+nmonfrequencies: 1
+monfrequencies: "29.775510204081634" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=29.6531)"
+nmonfrequencies: 1
+monfrequencies: "29.653061224489797" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=29.5306)"
+nmonfrequencies: 1
+monfrequencies: "29.530612244897956" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=29.4082)"
+nmonfrequencies: 1
+monfrequencies: "29.408163265306122" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=29.2857)"
+nmonfrequencies: 1
+monfrequencies: "29.285714285714288" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=29.1633)"
+nmonfrequencies: 1
+monfrequencies: "29.163265306122447" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=29.0408)"
+nmonfrequencies: 1
+monfrequencies: "29.040816326530614" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=28.9184)"
+nmonfrequencies: 1
+monfrequencies: "28.918367346938773" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=28.7959)"
+nmonfrequencies: 1
+monfrequencies: "28.795918367346939" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=28.6735)"
+nmonfrequencies: 1
+monfrequencies: "28.673469387755105" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=28.551)"
+nmonfrequencies: 1
+monfrequencies: "28.551020408163264" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=28.4286)"
+nmonfrequencies: 1
+monfrequencies: "28.428571428571431" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=28.3061)"
+nmonfrequencies: 1
+monfrequencies: "28.30612244897959" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=28.1837)"
+nmonfrequencies: 1
+monfrequencies: "28.183673469387756" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=28.0612)"
+nmonfrequencies: 1
+monfrequencies: "28.061224489795919" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=27.9388)"
+nmonfrequencies: 1
+monfrequencies: "27.938775510204081" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=27.8163)"
+nmonfrequencies: 1
+monfrequencies: "27.816326530612244" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=27.6939)"
+nmonfrequencies: 1
+monfrequencies: "27.69387755102041" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=27.5714)"
+nmonfrequencies: 1
+monfrequencies: "27.571428571428569" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=27.449)"
+nmonfrequencies: 1
+monfrequencies: "27.448979591836736" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=27.3265)"
+nmonfrequencies: 1
+monfrequencies: "27.326530612244895" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=27.2041)"
+nmonfrequencies: 1
+monfrequencies: "27.204081632653061" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=27.0816)"
+nmonfrequencies: 1
+monfrequencies: "27.081632653061227" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=26.9592)"
+nmonfrequencies: 1
+monfrequencies: "26.959183673469386" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=26.8367)"
+nmonfrequencies: 1
+monfrequencies: "26.836734693877553" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=26.7143)"
+nmonfrequencies: 1
+monfrequencies: "26.714285714285712" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=26.5918)"
+nmonfrequencies: 1
+monfrequencies: "26.591836734693878" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=26.4694)"
+nmonfrequencies: 1
+monfrequencies: "26.469387755102041" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=26.3469)"
+nmonfrequencies: 1
+monfrequencies: "26.346938775510203" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=26.2245)"
+nmonfrequencies: 1
+monfrequencies: "26.224489795918366" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=26.102)"
+nmonfrequencies: 1
+monfrequencies: "26.102040816326529" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=25.9796)"
+nmonfrequencies: 1
+monfrequencies: "25.979591836734695" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=25.8571)"
+nmonfrequencies: 1
+monfrequencies: "25.857142857142858" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=25.7347)"
+nmonfrequencies: 1
+monfrequencies: "25.73469387755102" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=25.6122)"
+nmonfrequencies: 1
+monfrequencies: "25.612244897959183" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=25.4898)"
+nmonfrequencies: 1
+monfrequencies: "25.489795918367349" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=25.3673)"
+nmonfrequencies: 1
+monfrequencies: "25.367346938775508" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=25.2449)"
+nmonfrequencies: 1
+monfrequencies: "25.244897959183675" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=25.1224)"
+nmonfrequencies: 1
+monfrequencies: "25.122448979591834" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=12)"
+nmonfrequencies: 1
+monfrequencies: "12" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=11.9184)"
+nmonfrequencies: 1
+monfrequencies: "11.918367346938776" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=11.8367)"
+nmonfrequencies: 1
+monfrequencies: "11.836734693877553" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=11.7551)"
+nmonfrequencies: 1
+monfrequencies: "11.755102040816325" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=11.6735)"
+nmonfrequencies: 1
+monfrequencies: "11.673469387755102" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=11.5918)"
+nmonfrequencies: 1
+monfrequencies: "11.591836734693878" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=11.5102)"
+nmonfrequencies: 1
+monfrequencies: "11.510204081632653" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=11.4286)"
+nmonfrequencies: 1
+monfrequencies: "11.428571428571429" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=11.3469)"
+nmonfrequencies: 1
+monfrequencies: "11.346938775510205" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=11.2653)"
+nmonfrequencies: 1
+monfrequencies: "11.265306122448978" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=11.1837)"
+nmonfrequencies: 1
+monfrequencies: "11.183673469387754" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=11.102)"
+nmonfrequencies: 1
+monfrequencies: "11.102040816326531" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=11.0204)"
+nmonfrequencies: 1
+monfrequencies: "11.020408163265307" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=10.9388)"
+nmonfrequencies: 1
+monfrequencies: "10.938775510204083" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=10.8571)"
+nmonfrequencies: 1
+monfrequencies: "10.857142857142856" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=10.7755)"
+nmonfrequencies: 1
+monfrequencies: "10.775510204081632" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=10.6939)"
+nmonfrequencies: 1
+monfrequencies: "10.693877551020408" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=10.6122)"
+nmonfrequencies: 1
+monfrequencies: "10.612244897959183" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=10.5306)"
+nmonfrequencies: 1
+monfrequencies: "10.530612244897959" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=10.449)"
+nmonfrequencies: 1
+monfrequencies: "10.448979591836736" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=10.3673)"
+nmonfrequencies: 1
+monfrequencies: "10.36734693877551" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=10.2857)"
+nmonfrequencies: 1
+monfrequencies: "10.285714285714286" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=10.2041)"
+nmonfrequencies: 1
+monfrequencies: "10.204081632653061" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=10.1224)"
+nmonfrequencies: 1
+monfrequencies: "10.122448979591837" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=10.0408)"
+nmonfrequencies: 1
+monfrequencies: "10.040816326530614" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=9.9592)"
+nmonfrequencies: 1
+monfrequencies: "9.9591836734693864" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=9.8776)"
+nmonfrequencies: 1
+monfrequencies: "9.8775510204081627" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=9.7959)"
+nmonfrequencies: 1
+monfrequencies: "9.795918367346939" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=9.7143)"
+nmonfrequencies: 1
+monfrequencies: "9.7142857142857153" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=9.6327)"
+nmonfrequencies: 1
+monfrequencies: "9.6326530612244898" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=9.551)"
+nmonfrequencies: 1
+monfrequencies: "9.5510204081632644" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=9.4694)"
+nmonfrequencies: 1
+monfrequencies: "9.4693877551020407" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=9.3878)"
+nmonfrequencies: 1
+monfrequencies: "9.387755102040817" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=9.3061)"
+nmonfrequencies: 1
+monfrequencies: "9.3061224489795915" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=9.2245)"
+nmonfrequencies: 1
+monfrequencies: "9.2244897959183678" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=9.1429)"
+nmonfrequencies: 1
+monfrequencies: "9.1428571428571441" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=9.0612)"
+nmonfrequencies: 1
+monfrequencies: "9.0612244897959169" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=8.9796)"
+nmonfrequencies: 1
+monfrequencies: "8.9795918367346932" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=8.898)"
+nmonfrequencies: 1
+monfrequencies: "8.8979591836734695" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=8.8163)"
+nmonfrequencies: 1
+monfrequencies: "8.8163265306122458" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=8.7347)"
+nmonfrequencies: 1
+monfrequencies: "8.7346938775510203" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=8.6531)"
+nmonfrequencies: 1
+monfrequencies: "8.6530612244897949" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=8.5714)"
+nmonfrequencies: 1
+monfrequencies: "8.5714285714285712" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=8.4898)"
+nmonfrequencies: 1
+monfrequencies: "8.4897959183673475" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=8.4082)"
+nmonfrequencies: 1
+monfrequencies: "8.408163265306122" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=8.3265)"
+nmonfrequencies: 1
+monfrequencies: "8.3265306122448983" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=8.2449)"
+nmonfrequencies: 1
+monfrequencies: "8.2448979591836746" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=8.1633)"
+nmonfrequencies: 1
+monfrequencies: "8.1632653061224492" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=8.0816)"
+nmonfrequencies: 1
+monfrequencies: "8.0816326530612255" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "surface-current (f=8)"
+nmonfrequencies: 1
+monfrequencies: "8" 
+montype: 94
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=12)"
+nmonfrequencies: 1
+monfrequencies: "12" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=11.9184)"
+nmonfrequencies: 1
+monfrequencies: "11.918367346938776" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=11.8367)"
+nmonfrequencies: 1
+monfrequencies: "11.836734693877553" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=11.7551)"
+nmonfrequencies: 1
+monfrequencies: "11.755102040816325" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=11.6735)"
+nmonfrequencies: 1
+monfrequencies: "11.673469387755102" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=11.5918)"
+nmonfrequencies: 1
+monfrequencies: "11.591836734693878" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=11.5102)"
+nmonfrequencies: 1
+monfrequencies: "11.510204081632653" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=11.4286)"
+nmonfrequencies: 1
+monfrequencies: "11.428571428571429" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=11.3469)"
+nmonfrequencies: 1
+monfrequencies: "11.346938775510205" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=11.2653)"
+nmonfrequencies: 1
+monfrequencies: "11.265306122448978" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=11.1837)"
+nmonfrequencies: 1
+monfrequencies: "11.183673469387754" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=11.102)"
+nmonfrequencies: 1
+monfrequencies: "11.102040816326531" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=11.0204)"
+nmonfrequencies: 1
+monfrequencies: "11.020408163265307" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=10.9388)"
+nmonfrequencies: 1
+monfrequencies: "10.938775510204083" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=10.8571)"
+nmonfrequencies: 1
+monfrequencies: "10.857142857142856" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=10.7755)"
+nmonfrequencies: 1
+monfrequencies: "10.775510204081632" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=10.6939)"
+nmonfrequencies: 1
+monfrequencies: "10.693877551020408" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=10.6122)"
+nmonfrequencies: 1
+monfrequencies: "10.612244897959183" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=10.5306)"
+nmonfrequencies: 1
+monfrequencies: "10.530612244897959" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=10.449)"
+nmonfrequencies: 1
+monfrequencies: "10.448979591836736" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=10.3673)"
+nmonfrequencies: 1
+monfrequencies: "10.36734693877551" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=10.2857)"
+nmonfrequencies: 1
+monfrequencies: "10.285714285714286" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=10.2041)"
+nmonfrequencies: 1
+monfrequencies: "10.204081632653061" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=10.1224)"
+nmonfrequencies: 1
+monfrequencies: "10.122448979591837" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=10.0408)"
+nmonfrequencies: 1
+monfrequencies: "10.040816326530614" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=9.9592)"
+nmonfrequencies: 1
+monfrequencies: "9.9591836734693864" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=9.8776)"
+nmonfrequencies: 1
+monfrequencies: "9.8775510204081627" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=9.7959)"
+nmonfrequencies: 1
+monfrequencies: "9.795918367346939" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=9.7143)"
+nmonfrequencies: 1
+monfrequencies: "9.7142857142857153" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=9.6327)"
+nmonfrequencies: 1
+monfrequencies: "9.6326530612244898" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=9.551)"
+nmonfrequencies: 1
+monfrequencies: "9.5510204081632644" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=9.4694)"
+nmonfrequencies: 1
+monfrequencies: "9.4693877551020407" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=9.3878)"
+nmonfrequencies: 1
+monfrequencies: "9.387755102040817" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=9.3061)"
+nmonfrequencies: 1
+monfrequencies: "9.3061224489795915" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=9.2245)"
+nmonfrequencies: 1
+monfrequencies: "9.2244897959183678" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=9.1429)"
+nmonfrequencies: 1
+monfrequencies: "9.1428571428571441" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=9.0612)"
+nmonfrequencies: 1
+monfrequencies: "9.0612244897959169" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=8.9796)"
+nmonfrequencies: 1
+monfrequencies: "8.9795918367346932" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=8.898)"
+nmonfrequencies: 1
+monfrequencies: "8.8979591836734695" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=8.8163)"
+nmonfrequencies: 1
+monfrequencies: "8.8163265306122458" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=8.7347)"
+nmonfrequencies: 1
+monfrequencies: "8.7346938775510203" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=8.6531)"
+nmonfrequencies: 1
+monfrequencies: "8.6530612244897949" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=8.5714)"
+nmonfrequencies: 1
+monfrequencies: "8.5714285714285712" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=8.4898)"
+nmonfrequencies: 1
+monfrequencies: "8.4897959183673475" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=8.4082)"
+nmonfrequencies: 1
+monfrequencies: "8.408163265306122" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=8.3265)"
+nmonfrequencies: 1
+monfrequencies: "8.3265306122448983" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=8.2449)"
+nmonfrequencies: 1
+monfrequencies: "8.2448979591836746" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=8.1633)"
+nmonfrequencies: 1
+monfrequencies: "8.1632653061224492" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=8.0816)"
+nmonfrequencies: 1
+monfrequencies: "8.0816326530612255" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "h-field (f=8)"
+nmonfrequencies: 1
+monfrequencies: "8" 
+montype: 1
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=12)"
+nmonfrequencies: 1
+monfrequencies: "12" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=11.9184)"
+nmonfrequencies: 1
+monfrequencies: "11.918367346938776" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=11.8367)"
+nmonfrequencies: 1
+monfrequencies: "11.836734693877553" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=11.7551)"
+nmonfrequencies: 1
+monfrequencies: "11.755102040816325" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=11.6735)"
+nmonfrequencies: 1
+monfrequencies: "11.673469387755102" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=11.5918)"
+nmonfrequencies: 1
+monfrequencies: "11.591836734693878" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=11.5102)"
+nmonfrequencies: 1
+monfrequencies: "11.510204081632653" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=11.4286)"
+nmonfrequencies: 1
+monfrequencies: "11.428571428571429" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=11.3469)"
+nmonfrequencies: 1
+monfrequencies: "11.346938775510205" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=11.2653)"
+nmonfrequencies: 1
+monfrequencies: "11.265306122448978" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=11.1837)"
+nmonfrequencies: 1
+monfrequencies: "11.183673469387754" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=11.102)"
+nmonfrequencies: 1
+monfrequencies: "11.102040816326531" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=11.0204)"
+nmonfrequencies: 1
+monfrequencies: "11.020408163265307" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=10.9388)"
+nmonfrequencies: 1
+monfrequencies: "10.938775510204083" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=10.8571)"
+nmonfrequencies: 1
+monfrequencies: "10.857142857142856" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=10.7755)"
+nmonfrequencies: 1
+monfrequencies: "10.775510204081632" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=10.6939)"
+nmonfrequencies: 1
+monfrequencies: "10.693877551020408" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=10.6122)"
+nmonfrequencies: 1
+monfrequencies: "10.612244897959183" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=10.5306)"
+nmonfrequencies: 1
+monfrequencies: "10.530612244897959" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=10.449)"
+nmonfrequencies: 1
+monfrequencies: "10.448979591836736" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=10.3673)"
+nmonfrequencies: 1
+monfrequencies: "10.36734693877551" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=10.2857)"
+nmonfrequencies: 1
+monfrequencies: "10.285714285714286" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=10.2041)"
+nmonfrequencies: 1
+monfrequencies: "10.204081632653061" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=10.1224)"
+nmonfrequencies: 1
+monfrequencies: "10.122448979591837" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=10.0408)"
+nmonfrequencies: 1
+monfrequencies: "10.040816326530614" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=9.9592)"
+nmonfrequencies: 1
+monfrequencies: "9.9591836734693864" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=9.8776)"
+nmonfrequencies: 1
+monfrequencies: "9.8775510204081627" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=9.7959)"
+nmonfrequencies: 1
+monfrequencies: "9.795918367346939" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=9.7143)"
+nmonfrequencies: 1
+monfrequencies: "9.7142857142857153" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=9.6327)"
+nmonfrequencies: 1
+monfrequencies: "9.6326530612244898" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=9.551)"
+nmonfrequencies: 1
+monfrequencies: "9.5510204081632644" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=9.4694)"
+nmonfrequencies: 1
+monfrequencies: "9.4693877551020407" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=9.3878)"
+nmonfrequencies: 1
+monfrequencies: "9.387755102040817" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=9.3061)"
+nmonfrequencies: 1
+monfrequencies: "9.3061224489795915" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=9.2245)"
+nmonfrequencies: 1
+monfrequencies: "9.2244897959183678" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=9.1429)"
+nmonfrequencies: 1
+monfrequencies: "9.1428571428571441" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=9.0612)"
+nmonfrequencies: 1
+monfrequencies: "9.0612244897959169" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=8.9796)"
+nmonfrequencies: 1
+monfrequencies: "8.9795918367346932" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=8.898)"
+nmonfrequencies: 1
+monfrequencies: "8.8979591836734695" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=8.8163)"
+nmonfrequencies: 1
+monfrequencies: "8.8163265306122458" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=8.7347)"
+nmonfrequencies: 1
+monfrequencies: "8.7346938775510203" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=8.6531)"
+nmonfrequencies: 1
+monfrequencies: "8.6530612244897949" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=8.5714)"
+nmonfrequencies: 1
+monfrequencies: "8.5714285714285712" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=8.4898)"
+nmonfrequencies: 1
+monfrequencies: "8.4897959183673475" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=8.4082)"
+nmonfrequencies: 1
+monfrequencies: "8.408163265306122" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=8.3265)"
+nmonfrequencies: 1
+monfrequencies: "8.3265306122448983" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=8.2449)"
+nmonfrequencies: 1
+monfrequencies: "8.2448979591836746" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=8.1633)"
+nmonfrequencies: 1
+monfrequencies: "8.1632653061224492" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=8.0816)"
+nmonfrequencies: 1
+monfrequencies: "8.0816326530612255" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+
+*** newmonitor
+monname: "e-field (f=8)"
+nmonfrequencies: 1
+monfrequencies: "8" 
+montype: 0
+mondomain: 1
+mon_fmin: ""
+mon_fmax: ""
+mon_nfSteps: ""
+*** endmonitor
+

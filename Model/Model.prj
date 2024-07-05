@@ -1,0 +1,19 @@
+[Version]
+2
+[Author]
+Lenovo
+[Mesh Cells]
+284,648
+[Mesh Type]
+Hexahedral
+[Last Problem Type]
+High Frequency
+[Last Solver Type]
+HF Time Domain
+[Last Solver Type Abb]
+t
+[Results]
+Time Domain: S-Parameter
+[Modeler Unique ID]
+5:final design.cst?ccd256d16e3a9de675803849a7c79923?45862:numberofparameters=11:port=1>mode=1>zre=0>zim=0:::hs?ht?lg?li?lp?ls?wf?wg?wi?wp?ws
+[Comment]
